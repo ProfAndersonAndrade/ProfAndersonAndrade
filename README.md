@@ -17,5 +17,6 @@
 
 
 ### Snake eating my contributions 🐍
-![Snake animation](https://github.com/ProfAndersonAndrade/ProfAndersonAndrade/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ProfAndersonAndrade/ProfAndersonAndrade/output/github-snake.svg)
+
 
