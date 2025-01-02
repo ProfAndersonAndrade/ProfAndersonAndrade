@@ -126,8 +126,7 @@
   <img 
         align="left" 
         alt="GitHub Stats" 
-        height="200" 
-        width="400px"
+        height="200"         
         font-size = 18;
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfAndersonAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
