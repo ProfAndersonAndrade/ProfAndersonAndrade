@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, sou o professor Anderson 👋
 
-<!--
-**ProfAndersonAndrade/ProfAndersonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I hold a degree in Mathematics.
+- 📚 I hold a degree in Computer Science.
+- 📚 Postgraduate specialization in Creative Educational Robotics.
+- 🔭 I've been a mathematics teacher since 2011.
+- 🌱 Currently learning: JavaScript.
+- 🌱 Currently learning: Data Science.
+- 😄 Pronouns: he/him.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Estatísticas do GitHub | Linguagens Mais Usadas |
+|-------------------------|------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfAndersonAndrade&show_icons=true&theme=merko) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfAndersonAndrade&layout=compact&theme=merko) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfAndersonAndrade&show_icons=true&theme=merko&hide=issues,contribs&count_private=true)
