@@ -1,12 +1,12 @@
 ## Olá, sou o professor Anderson 👋
 
-- 📚 I hold a degree in Mathematics.
-- 📚 I hold a degree in Computer Science.
-- 📚 Postgraduate specialization in Creative Educational Robotics.
-- 🔭 I've been a mathematics teacher since 2011.
-- 🌱 Currently learning: JavaScript.
-- 🌱 Currently learning: Data Science.
-- 😄 Pronouns: he/him.
+📚 Sou formado em Matemática ...
+📚 Sou formado em Ciências da Computação ...
+📚 Pós a nível de especialização em Robótica Educacional Criativa ...
+🔭 Sou professor de matemática desde 2011 ...
+🌱 Estudando: javascript ...
+🌱 Estudando: Ciência de dados ...
+😄 Pronomes: ele/dele.
 
 
 
